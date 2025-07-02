@@ -1,16 +1,25 @@
-# calculatorapp
+﻿# CODECRAFT-AD-01
 
-A new Flutter project.
+### Calculator App using Flutter & SQFlite
 
-## Getting Started
+This is a basic calculator app developed during the CODECRAFT internship using **Flutter** with **SQFlite** for local data handling.
+
+---
+
+## ✨ Features
+
+- Basic arithmetic operations
+- Clean Flutter UI
+- Local data storage using SQFlite
+- Responsive design for Android
+
+---
+
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### To run:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository:
+   git clone https://github.com/ZainabBibi164/CODECRAFT-AD-01
