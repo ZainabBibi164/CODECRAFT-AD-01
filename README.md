@@ -23,3 +23,9 @@ This project is a starting point for a Flutter application.
 
 1. Clone this repository:
    git clone https://github.com/ZainabBibi164/CODECRAFT-AD-01
+
+## 📱 Screenshot
+
+![CalculatorApp](assets/screenshots/cal1.JPEG)
+![CalculatorApp](assets/screenshots/cal2.JPEG)
+
