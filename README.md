@@ -26,6 +26,6 @@ This project is a starting point for a Flutter application.
 
 ## 📱 Screenshot
 
-![CalculatorApp](assets/screenshots/cal1.JPEG)
-![CalculatorApp](assets/screenshots/cal2.JPEG)
+![CalculatorApp](assets/screenshots/cal1.jpeg)
+![CalculatorApp](assets/screenshots/cal2.jpeg)
 
